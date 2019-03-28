@@ -806,7 +806,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "2000",
+            "slides__autoplayInterval": "7000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -1180,7 +1180,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "2000",
+            "slides__autoplayInterval": "7000",
             "slides__showBullets": true,
             "slides": [
               {
