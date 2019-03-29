@@ -48,7 +48,7 @@
     "uniqCompNum": 92,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\nUser-agent: Googlebot\nDisallow: /nogooglebot/\n\nUser-agent: Googlebot-Image\nDisallow: /images/dogs.jpg\n\nUser-agent: *\nDisallow: /\n\nUser-agent: Mediapartners-Google\nAllow: /\n\nUser-agent: Googlebot\nDisallow: /*.gif$\n\nUser-agent: Googlebot-news\nAllow: /\n\nUser-agent: *\nDisallow: /\n\nUser-agent: Unnecessarybot\nDisallow: /\n\nUser-agent: *\nAllow: /\n\nUser-agent: Adsbot-Google\nAllow: /\n\nUser-agent: Googlebot-Mobile\nAllow: /\n\nSitemap : https://mykerja.github.io/robot.txt\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\nUser-agent: Googlebot\nDisallow: /nogooglebot/\n\nUser-agent: Googlebot-Image\nDisallow: /images/dogs.jpg\n\nUser-agent: *\nDisallow: /\n\nUser-agent: Mediapartners-Google\nAllow: /\n\nUser-agent: Googlebot\nDisallow: /*.gif$\n\nUser-agent: Googlebot-news\nAllow: /\n\nUser-agent: *\nDisallow: /\n\nUser-agent: Unnecessarybot\nDisallow: /\n\nUser-agent: *\nAllow: /\n\nUser-agent: Adsbot-Google\nAllow: /\n\nUser-agent: Googlebot-Mobile\nAllow: /\n\nSitemap : https://mykerja.github.io/robot.txt\nSitemap : https://mykerja.github.io/sitemap.xml\n\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://mykerja.github.io",
     "sitemapSwitcherAuto": "on",

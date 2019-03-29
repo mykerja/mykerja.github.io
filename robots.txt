@@ -35,4 +35,6 @@ User-agent: Googlebot-Mobile
 Allow: /
 
 Sitemap : https://mykerja.github.io/robot.txt
+Sitemap : https://mykerja.github.io/sitemap.xml
+
 
