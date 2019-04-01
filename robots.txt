@@ -4,6 +4,15 @@ Disallow: /cgi-bin
 User-agent: *
 Allow: /
 
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
 Sitemap : https://mykerja.github.io/robots.txt
 Sitemap : https://mykerja.github.io/sitemap.xml
 
