@@ -1,40 +1,12 @@
 User-agent: *
 Disallow: /cgi-bin
 
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-User-agent: Googlebot-Image
-Disallow: /images/dogs.jpg
-
-User-agent: *
-Disallow: /
-
-User-agent: Mediapartners-Google
-Allow: /
-
-User-agent: Googlebot
-Disallow: /*.gif$
-
-User-agent: Googlebot-news
-Allow: /
-
-User-agent: *
-Disallow: /
-
-User-agent: Unnecessarybot
-Disallow: /
-
 User-agent: *
 Allow: /
 
-User-agent: Adsbot-Google
-Allow: /
-
-User-agent: Googlebot-Mobile
-Allow: /
-
-Sitemap : https://mykerja.github.io/robot.txt
+Sitemap : https://mykerja.github.io/robots.txt
 Sitemap : https://mykerja.github.io/sitemap.xml
+
+
 
 
